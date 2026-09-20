@@ -101,8 +101,7 @@ matching, a standard texture synthesis technique.
   stacking](https://pubmed.ncbi.nlm.nih.gov/40122886/).
 - [Electrochemical deposition of ZnO hierarchical
   nanostructures](https://arxiv.org/pdf/1302.4541)
+  
 ---
-
-## Why bother
 
 Built over several days of interactive work between me and an AI assistant. Questions, corrections and audits welcome.
