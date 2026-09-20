@@ -90,25 +90,17 @@ matching, a standard texture synthesis technique.
 **Literature.** The morphology taxonomy and the current-density dependence:
 
 - [Operando visualization and multi-scale tomography of dendrite formation in
-  zinc batteries](https://www.cell.com/joule/fulltext/S2542-4351(18)30522-1),
-  Joule — boulder, layered and mossy structures against overpotential.
+  zinc batteries](https://www.cell.com/joule/fulltext/S2542-4351(18)30522-1)
 - [Deciphering the metallic zinc anode
-  interface](https://www.oaepublish.com/articles/microstructures.2025.27),
-  Microstructures 2025 — boulders, filamentous moss, spongiform aggregates and
-  fern-like dendrites.
+  interface](https://www.oaepublish.com/articles/microstructures.2025.27)
 - [Current-controlled zinc electrodeposition morphology in ionic liquid
-  electrolytes](https://pmc.ncbi.nlm.nih.gov/articles/PMC13235949/), PMC —
-  mossy at low current, compact at moderate, filament-like under depletion.
+  electrolytes](https://pmc.ncbi.nlm.nih.gov/articles/PMC13235949/)
 - [Interface regulation and electrolyte design strategies for zinc
-  anodes](https://pmc.ncbi.nlm.nih.gov/articles/PMC11791299/), PMC — the
-  hexagonal plate habit and its link to the hcp structure.
+  anodes](https://pmc.ncbi.nlm.nih.gov/articles/PMC11791299/)
 - [Ordered zinc electrodeposition from single-crystal units to polycrystalline
-  stacking](https://pubmed.ncbi.nlm.nih.gov/40122886/), Nature Communications —
-  the spiral growth terrace.
+  stacking](https://pubmed.ncbi.nlm.nih.gov/40122886/).
 - [Electrochemical deposition of ZnO hierarchical
-  nanostructures](https://arxiv.org/pdf/1302.4541), arXiv — nanoflowers and
-  unordered nanosheets, the two oxide-phase habits.
-
+  nanostructures](https://arxiv.org/pdf/1302.4541)
 ---
 
 ## Why bother
